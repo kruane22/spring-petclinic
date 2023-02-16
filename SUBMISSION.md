@@ -31,7 +31,8 @@ status after the GitHub workflow fails.
 ## DONE 5 pts Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
 ![Build_Success](figures/BuildSuccess.png)
 
-5 pts Your GitHub repository with the readme.md file selected showing the build success
+## DONE 5 pts Your GitHub repository with the readme.md file selected showing the build success
 status after the GitHub workflow has recovered.
+![Read_Me_Success](figures/ReadMeSuccess.png)
 
 Submit a link to your repository in D2L in the comments of the assignment submission page.
