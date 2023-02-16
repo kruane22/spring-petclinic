@@ -15,7 +15,8 @@ directory and add links to those images to the SUBMISSION.md file. The images yo
 [Read_Me_Badge](figures/ReadMeBadge.png)
 [Read_Me_Build](figures/ReadMeBuild.png) 
 
-5 pts The section of the POM file showing the coordinates after you’ve commented them out.
+## DONE 5 pts The section of the POM file showing the coordinates after you’ve commented them out.
+[Coordinates](figures/Coordinates.png)
 
 5 pts Your GitHub Actions dashboard showing the unsuccessful build after the breaking
 change.
