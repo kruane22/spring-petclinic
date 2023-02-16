@@ -18,11 +18,12 @@ directory and add links to those images to the SUBMISSION.md file. The images yo
 ## DONE 5 pts The section of the POM file showing the coordinates after you’ve commented them out.
 [Coordinates](figures/Coordinates.png)
 
-5 pts Your GitHub Actions dashboard showing the unsuccessful build after the breaking
-change.
+## DONE 5 pts Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
+[Build_Fail](figures/BuildFail.png)
 
-5 pts Your GitHub repository with the readme.md file selected showing the build failed
+## DONE 5 pts Your GitHub repository with the readme.md file selected showing the build failed
 status after the GitHub workflow fails.
+[Read_Me_Fail](figures/ReadMeFail.png)
 
 5 pts The section of the POM file showing the coordinates after you’ve fixed them.
 
